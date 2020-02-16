@@ -4,7 +4,7 @@
 
 ## 图片
 
-- [改图宝]([https://www.gaitubao.com](https://www.gaitubao.com/)) 在线修改照片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照
+- [改图宝](https://www.gaitubao.com/) 在线修改照片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照
 - [在线图片去底工具](<http://www.aigei.com/bgremover/>) 将纯色背景的图片转换为背景透明的图片
 - [图片压缩](<https://tinypng.com/>) 智能**PNG**和**JPEG**无损压缩，可批量
 - [在线无损压缩图片](<http://www.bejson.com/ui/compress_img/>) 单个压缩

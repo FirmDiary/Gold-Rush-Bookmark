@@ -87,6 +87,8 @@
 - [临时邮箱](http://24mail.chacuo.net/) 不需要注册，邮箱持续24小时
 - [测试你的英语词汇量](http://testyourvocab.com/)
 - [扫描文件查毒](<https://www.virustotal.com/gui/home/upload>)
+- [插件迷](<https://www.extfans.com/>)Chrome插件扩展下载网
+
 
 
 

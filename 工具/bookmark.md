@@ -28,6 +28,8 @@
 
 - [茶杯狐](https://www.cupfox.com/) 超强！搜索电影，会提供所有能看该电影的地址
 
+- [速影TV](https://91suying.com/) 蓝光，不卡，力荐
+
 
 
 

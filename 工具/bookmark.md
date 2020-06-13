@@ -4,6 +4,9 @@
 ## 科学上网
 - [ghelper](http://googlehelper.net/) This is a browser plugin for developers, cross-border workers, and research institutes to secure and speed Internet surfing.
 
+## 书籍
+- [鸠摩搜书](https://www.jiumodiary.com/) 聚合书籍资源网站
+
 ## 图片
 
 - [改图宝](https://www.gaitubao.com/) 在线修改照片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照

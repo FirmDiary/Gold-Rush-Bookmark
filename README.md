@@ -30,8 +30,6 @@
 
 ## 后端
 
-- [PHP](后端/PHP/bookmark.md) 
-**新增：idea激活码领取网址**
   
 
 
